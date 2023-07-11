@@ -11,6 +11,11 @@ The dataset consisted of data for the entire year 2017. Hence we will be able to
 
 ![Screenshot from 2023-07-11 20-07-23](https://github.com/Pandey-utkarsh/Power-Consumption-Forcecasting/assets/91661580/9c9b3368-982b-410d-83d1-95ba451bbe75)
 
+**Correlation Matrix**:
+
+![download (5)](https://github.com/Pandey-utkarsh/Power-Consumption-Forcecasting/assets/91661580/970f9b0e-0fd2-4765-b67f-02f47540d104)
+
+
 After Preprocessing and splitting input data, it was trained on Linear Regression, RandomForestRegressor, K Nearest Neighbours algorithms and results were compared.
 
 ![Screenshot from 2023-07-11 20-22-33](https://github.com/Pandey-utkarsh/Power-Consumption-Forcecasting/assets/91661580/22e18be7-425f-4e27-9879-487049ced2e3)
