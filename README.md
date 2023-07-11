@@ -19,10 +19,12 @@ After Preprocessing and splitting input data, it was trained on Linear Regressio
 
 
 **Result**
+
 ![Screenshot from 2023-07-11 20-23-04](https://github.com/Pandey-utkarsh/Power-Consumption-Forcecasting/assets/91661580/b2ef12fe-e4fb-4aea-8aab-ea3aa3de2970)
 
 
-Scatter Plot:
+**Scatter Plot**:
+
 ![Screenshot from 2023-07-11 20-30-12](https://github.com/Pandey-utkarsh/Power-Consumption-Forcecasting/assets/91661580/663bf502-d128-4411-9f5d-da30fff6e830)
 ![Screenshot from 2023-07-11 20-30-21](https://github.com/Pandey-utkarsh/Power-Consumption-Forcecasting/assets/91661580/e8a7328e-f222-4c9e-aad2-c4057d4fb54d)
 ![Screenshot from 2023-07-11 20-30-29](https://github.com/Pandey-utkarsh/Power-Consumption-Forcecasting/assets/91661580/8d0c6b7a-b251-46b1-83b7-fa8e68577aaa)
