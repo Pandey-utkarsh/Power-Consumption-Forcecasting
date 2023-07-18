@@ -1,4 +1,4 @@
-# Power-Consumption-Forcecasting
+# Power-Consumption-Forecasting
 Formulated an ML model to predict power consumption for the three given zones for a particular time.
 
 Downloaded data on Power Consumption from [Kaggle Competition](https://www.kaggle.com/competitions/zonal-load-forcecasting-recognizance23/data)
